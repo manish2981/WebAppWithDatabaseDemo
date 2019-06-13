@@ -17,7 +17,7 @@ namespace WebApp.Controllers
 
             return View();
         }
-
+        // Contact page method... 
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
