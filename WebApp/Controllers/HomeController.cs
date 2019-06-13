@@ -6,6 +6,7 @@ namespace WebApp.Controllers
 {
     public class HomeController : Controller
     {
+        //Comments for Index Method...
         public IActionResult Index()
         {
             return View();
